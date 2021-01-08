@@ -204,7 +204,7 @@ VisualEffect:
       - m_Value: {x: 0.1, y: 0.15}
         m_Name: "\u5149\u9EDE\u5C3A\u5BF8"
         m_Overridden: 1
-      - m_Value: {x: -8, y: 8}
+      - m_Value: {x: 0.15, y: 6}
         m_Name: "\u5149\u9EDE\u901F\u5EA6"
         m_Overridden: 1
     m_Vector3f:
@@ -218,6 +218,9 @@ VisualEffect:
       - m_Value: 100
         m_Name: "\u7159\u9727\u6578\u91CF"
         m_Overridden: 1
+      - m_Value: 200
+        m_Name: "\u5149\u9EDE\u6578\u91CF"
+        m_Overridden: 1
     m_Matrix4x4f:
       m_Array: []
     m_AnimationCurve:
@@ -226,8 +229,8 @@ VisualEffect:
       m_Array:
       - m_Value:
           serializedVersion: 2
-          key0: {r: 11.181761, g: 8.137512, b: 8.781487, a: 0}
-          key1: {r: 0, g: 0.07132784, b: 1.9615155, a: 1}
+          key0: {r: 3.482202, g: 2.5263035, b: 2.7174833, a: 0}
+          key1: {r: 0.86932284, g: 0.041396327, b: 0.22767979, a: 1}
           key2: {r: 0, g: 0, b: 0, a: 0.8}
           key3: {r: 0, g: 0, b: 0, a: 0}
           key4: {r: 0, g: 0, b: 0, a: 0}
@@ -257,7 +260,7 @@ VisualEffect:
         m_Overridden: 1
       - m_Value:
           serializedVersion: 2
-          key0: {r: 3.031433, g: 2.3775947, b: 1.75942, a: 0}
+          key0: {r: 3.9533494, g: 3.1047246, b: 2.2974963, a: 0}
           key1: {r: 0.5754717, g: 0.15719973, b: 0.035288375, a: 1}
           key2: {r: 0.14901961, g: 0.07058824, b: 0.54901963, a: 0.8}
           key3: {r: 0, g: 0, b: 0, a: 0}

@@ -39,9 +39,9 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 451
+    x: 728
     y: 0
-    width: 616
+    width: 339
     height: 952
   m_MinSize: {x: 102, y: 121}
   m_MaxSize: {x: 4002, y: 4021}
@@ -161,7 +161,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 451
+    width: 728
     height: 952
   m_MinSize: {x: 201, y: 221}
   m_MaxSize: {x: 4001, y: 4021}
@@ -294,9 +294,9 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 451
+    x: 728
     y: 68
-    width: 614
+    width: 337
     height: 931
   m_ViewDataDictionary: {fileID: 0}
   m_DisplayedResource: {fileID: 8926484042661614527, guid: 290058e7e3f9386429e08522928b7a18,
@@ -590,7 +590,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 68
-    width: 450
+    width: 727
     height: 931
   m_ViewDataDictionary: {fileID: 0}
   m_ShowContextualTools: 0
@@ -603,9 +603,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 0, y: 1, z: 0}
+    m_Target: {x: 0.08580589, y: 2.2696688, z: -0.251504}
     speed: 2
-    m_Value: {x: 0, y: 1, z: 0}
+    m_Value: {x: 0.08580589, y: 2.2696688, z: -0.251504}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -651,13 +651,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.060286492, y: 0.9093913, z: -0.1419181, w: -0.3863071}
+    m_Target: {x: -0.104956806, y: 0.79445183, z: -0.14358918, w: -0.5807066}
     speed: 2
-    m_Value: {x: -0.060286462, y: 0.90939087, z: -0.14191802, w: -0.3863069}
+    m_Value: {x: -0.10517167, y: 0.79357684, z: -0.14343104, w: -0.5818954}
   m_Size:
-    m_Target: 2.0615528
+    m_Target: 5.9527836
     speed: 2
-    m_Value: 2.0615528
+    m_Value: 5.6527834
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -711,23 +711,23 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
-      m_LastClickedID: 0
+      m_SelectedIDs: a03f0000
+      m_LastClickedID: 16288
       m_ExpandedIDs: 6afbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: "\u5168\u57DF\u7A7A\u9593"
-        m_OriginalName: "\u5168\u57DF\u7A7A\u9593"
+        m_Name: 
+        m_OriginalName: 
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: 16310
+        m_UserData: 0
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 0
+        m_OriginalEventType: 11
         m_IsRenamingFilename: 0
         m_ClientGUIView: {fileID: 10}
       m_SearchString: 
